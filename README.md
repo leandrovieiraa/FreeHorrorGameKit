@@ -9,14 +9,14 @@ This is a FREE kit made in Unity Engine (Version 5+), to help developers create 
 * Unity Engine (Version 5+)
 * Dark Environment
 * Intuitive package and easy-to-customize
-* [This kit on unity asset store] (https://www.assetstore.unity3d.com/en/#!/content/108847)
+* [This kit on unity asset store](https://www.assetstore.unity3d.com/en/#!/content/108847)
 
 ### Informations ###
 
-* This project was created for developers who enjoy horror survival games
-* Requires [Standard Assets] to work (http://www.twotvgames.com/projects/unity/horrorgamekit/files/standardassets.unitypackage)
+* This project was created for developers who enjoy horror survival games.
+* Requires [Standard Assets](http://www.twotvgames.com/projects/unity/horrorgamekit/files/standardassets.unitypackage) to work.
 * With this kit, developers could use advanced systems, free buildings and create their own horror game story.
-* Read [Documentation] (http://www.twotvgames.com/projects/unity/horrorgamekit/documentation/documentation.pdf)
+* Read [Documentation](http://www.twotvgames.com/projects/unity/horrorgamekit/documentation/documentation.pdf).
 
 ### Features ###
 
