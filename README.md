@@ -2,7 +2,7 @@
 
 This is a FREE kit made in Unity Engine (Version 5+), to help developers create your own horror game with classic Slender game aspects 
 
-![img](https://i.imgur.com/Nu3RNYV.png)
+![img](https://i.imgur.com/JfXVz7m.jpg)
 
 ### Informations ###
 
