@@ -11,7 +11,7 @@ This is a FREE kit made in Unity Engine (Version 5+), to help developers create 
 * Intuitive package and easy-to-customize
 * [This kit on unity asset store](https://www.assetstore.unity3d.com/en/#!/content/108847)
 
-### Informations ###
+### Overview ###
 
 * This project was created for developers who enjoy horror survival games.
 * Requires [Standard Assets](http://www.twotvgames.com/projects/unity/horrorgamekit/files/standardassets.unitypackage) to work.
