@@ -33,6 +33,10 @@ This is a FREE kit made in Unity Engine (Version 5+), to help developers create 
 * Pre configured unity fog and lighting system
 * C# crafted code and easy to modification
 
+### Project Video ###
+
+[Youtube - Free Horror Game Kit Video](https://youtu.be/esS4G38Uuak)
+
 ### Two TV Games ###
 
 * :copyright: Developer Leandro Vieira (gallighanmaker)
