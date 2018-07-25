@@ -1,12 +1,12 @@
 # Project Concept #
 
-This is a FREE kit made in Unity Engine (Version 5+), to help developers create your own horror game with classic Slender game aspects 
+This is a FREE kit made in Unity Engine (Version 2017+), to help developers create your own horror game with classic Slender game aspects 
 
 ![img](https://i.imgur.com/JfXVz7m.jpg)
 
 ### Informations ###
 
-* Unity Engine (Version 5+)
+* Unity Engine (Version 2017+)
 * Dark Environment
 * Intuitive package and easy-to-customize
 * [This kit on unity asset store](https://www.assetstore.unity3d.com/en/#!/content/108847)
