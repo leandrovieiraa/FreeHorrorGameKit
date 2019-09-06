@@ -27,7 +27,7 @@ This is a FREE kit made in Unity Engine (Version 2017+), to help developers crea
 * Battery charge system
 * Collect pages system
 * Health system
-* Customozable UI
+* Customizable UI
 * Old building included
 * Unique dark atmosphere with awesome image effects
 * Pre configured unity fog and lighting system
