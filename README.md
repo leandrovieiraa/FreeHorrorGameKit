@@ -14,9 +14,9 @@ This is a FREE kit made in Unity Engine (Version 2017+), to help developers crea
 ### Overview ###
 
 * This project was created for developers who enjoy horror survival games.
-* Requires [Standard Assets](http://www.twotvgames.com/projects/unity/horrorgamekit/files/standardassets.unitypackage) to work.
+* Requires [Standard Assets](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-32351) and [Legacy Image Effects](https://assetstore.unity.com/packages/essentials/legacy-image-effects-83913) to work.
 * With this kit, developers could use advanced systems, free buildings and create their own horror game story.
-* Read [Documentation](http://www.twotvgames.com/projects/unity/horrorgamekit/documentation/documentation.pdf).
+* Read [Documentation](https://paper.dropbox.com/published/Free-Horror-Game-Kit-Documentation-TQo0oOxanO6aLyjyQYwWwg5).
 
 ### Features ###
 
