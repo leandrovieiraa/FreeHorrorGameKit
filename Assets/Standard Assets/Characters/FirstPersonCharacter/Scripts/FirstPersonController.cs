@@ -4,6 +4,7 @@ using UnityStandardAssets.CrossPlatformInput;
 using UnityStandardAssets.Utility;
 using Random = UnityEngine.Random;
 
+#pragma warning disable 618, 649
 namespace UnityStandardAssets.Characters.FirstPerson
 {
     [RequireComponent(typeof (CharacterController))]
@@ -42,10 +43,6 @@ namespace UnityStandardAssets.Characters.FirstPerson
         private bool m_Jumping;
         private AudioSource m_AudioSource;
 
-        public GameObject canvas;
-        float tempMouseSensX = 0;
-        float tempMouseSensY = 0;
-
         // Use this for initialization
         private void Start()
         {
@@ -59,8 +56,6 @@ namespace UnityStandardAssets.Characters.FirstPerson
             m_Jumping = false;
             m_AudioSource = GetComponent<AudioSource>();
 			m_MouseLook.Init(transform , m_Camera.transform);
-            tempMouseSensX = m_MouseLook.XSensitivity;
-            tempMouseSensY = m_MouseLook.YSensitivity;
         }
 
 
@@ -87,20 +82,6 @@ namespace UnityStandardAssets.Characters.FirstPerson
             }
 
             m_PreviouslyGrounded = m_CharacterController.isGrounded;
-
-            if (canvas.transform.Find("InGameMenuPanel").gameObject.activeSelf == true)
-            {
-                m_MouseLook.lockCursor = true;
-                m_MouseLook.XSensitivity = 0;
-                m_MouseLook.YSensitivity = 0;
-            }
-            else
-            {
-                m_MouseLook.lockCursor = false;
-                m_MouseLook.XSensitivity = tempMouseSensX;
-                m_MouseLook.YSensitivity = tempMouseSensY;
-            }
-
         }
 
 

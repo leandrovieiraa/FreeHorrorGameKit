@@ -1,6 +1,7 @@
 using System;
 using UnityEngine;
 
+#pragma warning disable 649
 namespace UnityStandardAssets.Vehicles.Aeroplane
 {
     public class AeroplaneAudio : MonoBehaviour

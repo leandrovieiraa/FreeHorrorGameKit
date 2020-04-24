@@ -10,9 +10,4 @@ public class LevelReset :MonoBehaviour , IPointerClickHandler
         // reload the scene
         SceneManager.LoadScene(SceneManager.GetSceneAt(0).name);
     }
-
-
-    private void Update()
-    {
-    }
 }
